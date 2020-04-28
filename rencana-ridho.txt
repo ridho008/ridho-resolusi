@@ -1,5 +1,6 @@
 Rencana
-javascript = ES6, Framework js
+javascript = ES6, Framework js, view
 interview
 vlog
 balajar
+phyton
