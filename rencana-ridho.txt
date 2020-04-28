@@ -1,5 +1,7 @@
 Rencana
 javascript = ES6, Framework js
-interview
+angular
+react
 vlog
 balajar
+laravel
