@@ -1,6 +1,12 @@
 Rencana
+javascript = ES6, Framework js
+react
+vlog
+balajar
+laravel
 javascript = ES6, Framework js, view, React
 interview
 vlog
 balajar
 phyton
+
