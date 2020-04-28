@@ -1,4 +1,4 @@
 Rencana
-javascript
+javascript = ES6, Framework js
 interview
 vlog
